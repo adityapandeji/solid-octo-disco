@@ -5,7 +5,7 @@ To create a chat app that mimics how Telegram's secret chats work in the backend
 To built this app using the bare minimum amount of dependancies. No Vue, No tailwind, No Nuxt
 
 # Learning points
-Building a chat app using pure JS, HTML and CSS with the help of Socket.io was such an enjoyable experience. I did not have to read up on a framework's documentation and could apply what I learned from my basics in Javasript course that I did in 2020. This journey has also opened my eyes and showed me how impressive Nuxt is. I could appreciate the features that Nuxt provide like server-side rendering and actual working server-side code. However, I found the development processed more streamlined by using only what I needed. Not only was the code required for this project simple but I did not have to read through mountains of documentation to use a tool in a framework. 
+Building a chat app using pure JS, HTML and CSS with the help of Socket.io was such an enjoyable experience. I did not have to read up on a framework's documentation and could apply what I learned from my basics in Javasript course that I did in 2022. This journey has also opened my eyes and showed me how impressive Nuxt is. I could appreciate the features that Nuxt provide like server-side rendering and actual working server-side code. However, I found the development processed more streamlined by using only what I needed. Not only was the code required for this project simple but I did not have to read through mountains of documentation to use a tool in a framework. 
 
 TLDR; No framework -> Only wrote and used what was required -> Try not to be dependant on dependencies 
 
