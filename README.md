@@ -9,8 +9,6 @@ Building a chat app using pure JS, HTML and CSS with the help of Socket.io was s
 
 TLDR; No framework -> Only wrote and used what was required -> Try not to be dependant on dependencies 
 
-# Demo
-https://youtu.be/K6sNfN9Z_n0?si=GSNjJfkew-yDEZqZ&t=193
 
 # Todo
 - [x] Chat interface
